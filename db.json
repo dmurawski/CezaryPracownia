@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "chleb"
+    },
+    {
+      "id": 2,
+      "item": "maslo"
+    },
+    {
+      "id": 3,
+      "item": "bulka"
+    },
+    {
+      "item": "ser",
+      "id": 4
+    },
+    {
+      "item": "woda",
+      "id": 5
+    },
+    {
+      "item": "jaja",
+      "id": 6
+    }
+  ]
+}
